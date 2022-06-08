@@ -14,5 +14,8 @@ int main(){
     char c;
     cout<<"size of char "<<sizeof(c)<<endl;
 
+    double d;
+    cout<<"SIZE OF double is "<<sizeof(d)<<endl;
+
     return 0;
 }
